@@ -1,7 +1,8 @@
 # kaban_login
 
-Projeto Consulta de Clima
-HTML / CSS / NODE / EXPRESS / EJS / PASSPORT / MONGODB
+Projeto Criação de um Kaban
+
+# HTML / CSS / NODE / EXPRESS / EJS / PASSPORT / MONGODB
 
 Projeto faz parte do desafio BORA CODAR da empresa rocketseat (www.rocketseat.com.br) onde foi apresentado um desafio de HTML e CSS
 
